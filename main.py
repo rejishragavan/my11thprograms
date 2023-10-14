@@ -1,7 +1,8 @@
-import starpgm
-def main():
+import global_variable
 
-    starpgm.star()
+def main():
+    global_variable.func1()
+    global_variable.func2()
 
 if __name__=="__main__":
     main()
