@@ -1,14 +1,6 @@
-import global_variable
-import squareofunitdigt
-import squareintdigit
+import listmodule
 def main():
-   # global_variable.func1()
-    #global_variable.func2()
-    #squareofunitdigt.convert_string()
-    squareofunitdigt.convert_string()
+    listmodule.listfunc()
 
 if __name__=="__main__":
     main()
-
-
-
